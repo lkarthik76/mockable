@@ -1,0 +1,145 @@
+{
+  "productRoles": [
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000001,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000002,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000003,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000004,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000005,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000006,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000007,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000008,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000009,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000010,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000011,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000012,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000013,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000014,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000015,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000016,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000017,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000018,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000019,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    },
+    {
+      "endDate": "2017-08-10T10:22:52.379Z",
+      "isDeleted": false,
+      "productId": 1500000000020,
+      "productRoleId": 1400000000657,
+      "roleId": 6
+    }
+  ],
+   "serverTimestamp": "21358250015400000"
+}
